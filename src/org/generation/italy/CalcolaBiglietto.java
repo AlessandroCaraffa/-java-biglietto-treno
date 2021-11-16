@@ -39,6 +39,7 @@ public class CalcolaBiglietto {
 		if (eta > 65) {
 			System.out.print("40%");
 		}
+		scanner.close();
 	}
 
 }
